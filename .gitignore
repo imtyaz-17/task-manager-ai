@@ -1,0 +1,8 @@
+.env
+.env.local
+postgres_data
+node_modules
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
